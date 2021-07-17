@@ -1,9 +1,7 @@
-  My name is Abhigyan Pandey. I am a BE-Computer Science Engineering graduate from Chandigarh University (2017- 2021 Batch).
+ My name is Abhigyan Pandey. I am a BE-Computer Science Engineering graduate from Chandigarh University (2017- 2021 Batch).
   
-  I’m interested in Programming and Problem Solving.
+ I have a keen interest in programming and problems solving.
  
- My key competencies are C,C++, Python ,Javascript.
+ My key competencies are Java ,C++, Python ,Javascript.
  
-Technlologies worked upon - React JS , Node Js, Pytest , Selenium ,numpy ,pandas, sklear(Basic).
-
-Looking for an oppurtunity where I can utilise my technical skills and communication skills effectively.
+Technlologies worked upon - React JS , Node Js, Pytest , Selenium(Basic) ,numpy ,pandas, sklearn(Basic).
