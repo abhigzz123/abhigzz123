@@ -2,6 +2,6 @@
   
  I have a keen interest in programming and problems solving.
  
- My key competencies are Java ,C++, Python ,Jacascript
+ My key competencies are Java ,C++ ,HTML, CSS ,Javascript,Typescript.
  
-Technlologies worked upon - SpringBoot ,JPA ,Hibernate , REST ,HTML ,CSS ,JavaScript ,React ,GraphQL.
+Technlologies worked upon - SpringBoot ,JPA ,Hibernate , REST ,HTML ,React Js.
