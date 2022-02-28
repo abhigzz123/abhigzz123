@@ -1,4 +1,4 @@
- My name is Abhigyan Pandey. I am a BE-Computer Science Engineering graduate from Chandigarh University (2017- 2021 Batch).
+ My name is Abhigyan Pandey. I am a BE-Computer Science Engineering graduate(2017- 2021 Batch).
   
  I have a keen interest in programming and web development.
  
