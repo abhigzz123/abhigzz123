@@ -4,4 +4,4 @@
  
 - My key competencies are C++ , Java , HTML, CSS ,Javascript,Typescript.
  
-- Technlologies worked upon - React Js. , SpringBoot , JPA , Hibernate , REST, SQL-Databases.
+- Technlologies worked upon - React Js ,Redux , SpringBoot , JPA , Hibernate , REST, SQL-Databases.
